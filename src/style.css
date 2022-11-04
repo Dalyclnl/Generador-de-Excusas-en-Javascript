@@ -1,1 +1,36 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(253, 252, 250);
+}
+
+button {
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: red;
+  border: 2px solid #555;
+  height: 80px;
+  width: 80px;
+}
+
+#excuse {
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  height: auto;
+  width: auto;
+  color: blue;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin: 20px;
+  height: auto;
+  width: auto;
+  text-align: center;
+  color: black;
+}
